@@ -53,12 +53,12 @@ function draw() {
     snows.push(new Snow(random(850, 1000), 10 ))
     snows.push(new Snow(random(1050, 1190), 14 ))
 
-    snows.push(new Snow(random(40, 200), 50 ))
-    snows.push(new Snow(random(250, 400), 54 ))
-    snows.push(new Snow(random(450, 600), 52 ))
-    snows.push(new Snow(random(650, 800), 51 ))
-    snows.push(new Snow(random(850, 1000), 50 ))
-    snows.push(new Snow(random(1050, 1190), 54 ))
+    snows.push(new Snow(random(40, 200), 60 ))
+    snows.push(new Snow(random(250, 400), 64 ))
+    snows.push(new Snow(random(450, 600), 62 ))
+    snows.push(new Snow(random(650, 800), 61 ))
+    snows.push(new Snow(random(850, 1000), 60 ))
+    snows.push(new Snow(random(1050, 1190), 64 ))
   /*for (var j = 75; j <=width; j=j+120) { 
     snows.push(new Snow(j,15));
   }
